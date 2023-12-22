@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/license/GabrielSchiavo/to-do-list?color=blue&style=for-the-badge"/>
 </p>
 
-Um programa simples em Python para criar facilmente capas personalizadas em arquivo PDF para suas aulas.
+Um programa simples em Python (sem interface gráfica) para criar facilmente capas personalizadas em arquivo PDF para suas aulas.
 
 <br>
 <div style="display: inline_block; text-align: center;">
