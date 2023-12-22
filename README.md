@@ -21,7 +21,7 @@ Um programa simples em Python para criar facilmente arquivos PDF personalizados 
    - Execute o programa.
 
      ```bash
-     python main.py
+     python create_pdf.py
      ```
 
 2. **Digite as Páginas Desejadas:**
