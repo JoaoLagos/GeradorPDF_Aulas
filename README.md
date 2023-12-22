@@ -33,11 +33,10 @@ Um programa simples em Python para criar facilmente arquivos PDF personalizados 
      - '1,3,5' para gerar os PDFs da AULA 1, AULA 3 e AULA 5.
      - '1:4,6,9,21:24' para gerar os PDFs da AULA 1 a AULA 4, AULA 6, AULA 9, AULA 21 a AULA 24.
      - '1,5:9,12' para gerar os PDFs da AULA 1, AULA 5 a AULA 9, AULA 12.
-     - 'q' para sair.
      ```
 
 3. **PDFs Gerados:**
-   - Os PDFs serão gerados no mesmo diretório do programa.
+   - Os PDFs serão gerados na sua Área de Trabalho (Desktop).
 
 ## Requisitos
 
