@@ -9,7 +9,7 @@ Um programa simples em Python para criar facilmente arquivos PDF personalizados 
    - Clone este repositório para o seu computador.
 
      ```bash
-     git clone https://github.com/seu-usuario/GeradorPDF_Aulas.git
+     git clone https://github.com/JoaoLagos/GeradorPDF_Aulas.git
      ```
 
    - Navegue até o diretório do projeto.
