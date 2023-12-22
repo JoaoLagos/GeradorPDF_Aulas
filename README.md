@@ -1,8 +1,14 @@
-# GeradorPDF_Aulas
+# ✨  Gerador de capas em arquivo PDF para Aulas
 
-Um programa simples em Python para criar facilmente arquivos PDF personalizados para suas aulas.
+<p align="left">
+    <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
+    <!-- <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/> -->
+    <img src="https://img.shields.io/github/license/GabrielSchiavo/to-do-list?color=blue&style=for-the-badge"/>
+</p>
 
-## Instruções de Uso
+Um programa simples em Python para criar facilmente capas personalizadas em arquivo PDF para suas aulas.
+
+##  :hammer_and_wrench: Instruções de Uso
 
 1. **Execute o Programa:**
    - Certifique-se de ter o Python instalado em seu sistema.
@@ -38,14 +44,14 @@ Um programa simples em Python para criar facilmente arquivos PDF personalizados 
 3. **PDFs Gerados:**
    - Os PDFs serão gerados na sua Área de Trabalho (Desktop).
 
-## Requisitos
+## :white_check_mark: Requisitos
 
 - Python 3.x
 
-## Contribuições
+## :handshake: Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## Licença
+## :memo: Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
