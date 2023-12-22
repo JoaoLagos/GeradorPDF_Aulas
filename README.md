@@ -11,6 +11,7 @@ Um programa simples em Python para criar facilmente capas personalizadas em arqu
 <br>
 <div style="display: inline_block; text-align: center;">
     <img src="./assets/photo1.png" alt="Photo 1">
+    <hr>
     <img src="./assets/photo2.png" alt="Photo 2">
     <img src="./assets/photo3.png" alt="Photo 3">
 </div>
