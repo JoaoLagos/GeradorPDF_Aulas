@@ -82,10 +82,12 @@ def get_input_pages():
         input_pages = input("\nDigite sua escolha: ")
         
         # Verifica se a entrada é válida
-        if all(part.isdigit() or part == ':' or part == ',' for part in input_pages):
+        if all(part.isdigit() or part == ':' or part == ',' or part == " " for part in input_pages):
+            input_pages = input_pages.replace(" ", "")
+            print(input_pages)
             return input_pages
         else:
-            print("Entrada inválida. Por favor, insira novamente.")
+            print("\nEntrada inválida. Por favor, insira novamente.\n")
 
 def create_pdf(page_number):
     """
