@@ -51,6 +51,8 @@ from colorama import init, Fore, Style
 
 desktop_path = os.path.join(os.path.expanduser('~'), 'Desktop')
 
+lista = []
+
 def get_input_pages():
     """
     Solicita ao usuário as páginas desejadas para a criação dos PDFs.
@@ -147,10 +149,12 @@ def generate_pdfs(input_pages):
         if end:  # Se houver um final especificado
             for page_number in range(int(start), int(end) + 1):
                 create_pdf(page_number)
+                lista.append(page_number)
         else:
             # Caso contrário, só uma página é especificada
             page_number = int(start)
             create_pdf(page_number)
+            lista.append(page_number)
 
 if __name__ == "__main__":
     # Recebe as páginas desejadas como uma string
