@@ -7,6 +7,12 @@
 </p>
 
 Um programa simples em Python (sem interface gráfica) para criar facilmente capas personalizadas em arquivo PDF para suas aulas.
+<br><hr>
+<p align="center"><b>Propósito:</b></p>
+<br>Ao estudar, eu salvo (e separo) meu conteúdo estudado por aula, e ao final salvo em  um PDF essas aulas. <br><br>
+Entretanto, esse procedimento torna-se oneroso quando lidamos com múltiplas aulas. Por exemplo, se tivermos quatro aulas (digamos Aula 3, Aula 4, Aula 5 e Aula 6), seria necessária a criação de quatro PDFs distintos, com o conteúdo interno "Aula X" (onde X é o número correspondente à aula). Esse processo demandaria tempo considerável, pois envolveria a escrita do conteúdo "Aula X" dentro de um arquivo .docx (por exemplo), e a transformação para PDF, repetindo esse processo para cada aula. A complexidade aumenta significativamente quando extrapolamos esse cenário para um maior número de aulas, como dez, por exemplo 😵.<br><br>
+Diante dessa realidade, desenvolvi um programa que automatiza esse processo para o usuário. Ao inserir as aulas desejadas, respeitando o formato de entrada, o aplicativo gera os PDFs "Aula X" correspondentes em menos de 5 segundos. Essa solução visa otimizar o tempo e esforço dedicados à criação manual dos documentos, proporcionando uma experiência mais eficiente e ágil no gerenciamento do conteúdo estudado.
+<hr>
 
 <br>
 <div style="display: inline_block; text-align: center;">
